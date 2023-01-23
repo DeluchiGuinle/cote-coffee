@@ -1,2 +1,2 @@
 # cote-coffee
-Trabalho de Web Designer!
+Este site foi criado nas aulas de Web Designer!
